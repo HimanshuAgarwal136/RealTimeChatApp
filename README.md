@@ -13,8 +13,7 @@ npm install
 
 Create a .env file inside the backend directory and add the following:
 
-DATABASE_URL="postgresql://chat-app_owner:npg_Fsd3eLPvni7j@ep-damp-resonance-a5i6wxzx-pooler.us-east-2.aws.neon.tech/chat-app?sslmode=require"
-
+DATABASE_URL=
 REDIS_URL="redis://localhost:6379"
 
 PORT=5001
